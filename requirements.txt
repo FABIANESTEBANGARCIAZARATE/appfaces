@@ -1,0 +1,4 @@
+opencv-python-headless
+pandas 
+scikit-lear==0.24.2
+
